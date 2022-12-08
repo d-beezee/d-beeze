@@ -1,3 +1,8 @@
-# d-beeze
+<h1 align="center">
+  Hi, i'm <b>Davide Bizzi</b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+traveller!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+traveller!&center=true&width=380&height=45"></a>
+</p>
+
+</h1>
