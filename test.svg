@@ -1,10 +1,5 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <iframe src="https://google.com" />
-    </div>
-</foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <iframe src="https://trixlux.github.io/my-first-page/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </foreignObject>
 </svg>
