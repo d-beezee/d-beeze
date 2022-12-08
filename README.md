@@ -17,4 +17,5 @@
   </div>
   
 <!--START_SECTION:badges-->
+[![Professional Scrum Developer™ I (PSD I)](https://images.credly.com/size/110x110/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png)](http://www.credly.com/badges/c150ad39-cf6b-4d1f-a45b-5e34a239c91a "Professional Scrum Developer™ I (PSD I)")
 <!--END_SECTION:badges-->
