@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg">
   <foreignObject xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%;height: 100%;position: absolute;left: 0;right: 0;top: 0;"> 
-      <iframe src="https://trixlux.github.io/my-first-page/"  style="width: 100%;height: 100%;position: absolute;left: 0;right: 0;top: 0;" />
+      <iframe src="https://raw.githubusercontent.com/d-beezee/d-beezee/main/page/index.html"  style="width: 100%;height: 100%;position: absolute;left: 0;right: 0;top: 0;" />
     </div>
   </foreignObject>
 </svg>
